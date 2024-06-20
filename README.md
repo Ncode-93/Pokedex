@@ -54,6 +54,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Netlify: Free hosting
 
 ## Contact
-GitHub: Ncode-93
-LinkedIn: Nimish Bhardwaj
+- GitHub: Ncode-93
+- LinkedIn: Nimish Bhardwaj
 
