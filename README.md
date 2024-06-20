@@ -11,7 +11,7 @@ A responsive web application built with React that displays a list of Pokémon f
 
 ## Demo
 
-Check out the live demo of the app: [Pokémon React App](https://thunderous-heliotrope-806da7.netlify.app/)
+Check out the live demo of the app: [Pokedex](https://thunderous-heliotrope-806da7.netlify.app/)
 
 ## Getting Started
 
