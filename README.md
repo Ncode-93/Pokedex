@@ -30,26 +30,28 @@ Follow these instructions to set up and run the project locally.
 
 ## Technologies Used
 React: JavaScript library for building user interfaces.
+
 Axios: Promise-based HTTP client for the browser and Node.js.
+
 Netlify: Free hosting
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests.
 
 ## How to Contribute
-Fork the repository.
-Create a new branch: git checkout -b feature/YourFeature.
-Make your changes and commit them: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature/YourFeature.
-Open a pull request.
+- Fork the repository.
+- Create a new branch: git checkout -b feature/YourFeature.
+- Make your changes and commit them: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature/YourFeature.
+- Open a pull request.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-PokéAPI: The RESTful Pokémon API.
-React: A JavaScript library for building user interfaces.
-Netlify: Free hosting
+- PokéAPI: The RESTful Pokémon API.
+- React: A JavaScript library for building user interfaces.
+- Netlify: Free hosting
 
 ## Contact
 GitHub: Ncode-93
