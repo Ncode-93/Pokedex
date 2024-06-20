@@ -1,6 +1,4 @@
-# Pokémon React App
-
-![Pokedex]
+# Pokedex
 
 A responsive web application built with React that displays a list of Pokémon fetched from the [PokéAPI](https://pokeapi.co/). The app features search functionality, allowing users to easily find and view their favorite Pokémon.
 
